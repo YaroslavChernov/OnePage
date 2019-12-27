@@ -140,6 +140,3 @@ header nav ul li:hover a, header nav ul li.active a{
     max-width: 300px;
     background-color: red;
 }
-.About h2{
-    text-transform: uppercase;
-}
